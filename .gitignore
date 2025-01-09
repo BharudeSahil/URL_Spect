@@ -1,0 +1,47 @@
+# Node.js Dependencies
+node_modules/
+package-lock.json
+yarn.lock
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment Files
+.env
+.env.local
+.env.*.local
+
+# Build Files
+dist/
+build/
+
+# Temporary Files
+tmp/
+temp/
+
+# Cache
+.cache/
+.nyc_output/
+coverage/
+*.tsbuildinfo
+
+# OS Specific
+.DS_Store
+Thumbs.db
+
+# IDE Specific
+.vscode/
+.idea/
+*.iml
+
+# Testing Files
+*.test.js
+*.spec.js
+coverage/
+
+# Ignore static analysis reports
+reports/
