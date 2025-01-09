@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/BharudeSahil/URL_Spect/issues"
   },
-  "homepage": "https://github.com/BharudeSahil/URL_Spect#readme"
+  "homepage": "https://github.com/BharudeSahil/URL_Spect#readme",
+  "dependencies": {
+    "chalk": "^5.4.1"
+  }
 }
